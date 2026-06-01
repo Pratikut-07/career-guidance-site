@@ -245,4 +245,4 @@ This platform is useful for:
 
 ## 👨‍💻 Author
 
-Akash Rangarej
+Pratik Tippannavar
